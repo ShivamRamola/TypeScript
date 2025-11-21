@@ -1,6 +1,6 @@
 // number, string, boolean
 
-function add(
+function adds(
   num1: number,
   num2: number,
   printResult: boolean,
